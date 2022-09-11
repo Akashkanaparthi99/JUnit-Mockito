@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=OnlineBookApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookapp.service{IBookService.java[IBookService" modifiers="513" timestamp="1649072242847"/>
+    <typeInfo handle="=OnlineBookApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookapp.dao{IBookDao.java[IBookDao" modifiers="513" timestamp="1649065328726"/>
+    <typeInfo handle="=RestaurantsProject/C:\/Users\/AkashKanaparthi\/.m2\/repository\/mysql\/mysql-connector-java\/8.0.22\/mysql-connector-java-8.0.22.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/mysql=/=/maven.artifactId=/mysql-connector-java=/=/maven.version=/8.0.22=/=/maven.scope=/compile=/&lt;com.mysql.cj.xdevapi(InsertResult.class[InsertResult" modifiers="1537" timestamp="1649061621723"/>
+    <typeInfo handle="=JUnitDemos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.shristi.training{Calculator.java[Calculator" modifiers="1" timestamp="1649310026862"/>
+    <typeInfo handle="=JUnitDemos/C:\/Program Files\/Java\/jdk-11.0.14\/lib\/jrt-fs.jar`java.rmi=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.rmi(StubNotFoundException.class[StubNotFoundException" modifiers="33" timestamp="1646127580444"/>
+    <typeInfo handle="=JUnitDemos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.shristi.training{Student.java[Student" modifiers="1" timestamp="1649315012799"/>
+    <typeInfo handle="=JUnitDemos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.shristi.training{Bank.java[Bank" modifiers="1" timestamp="1649325774730"/>
+    <typeInfo handle="=JUnitDemos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.shristi.training{User.java[User" modifiers="1" timestamp="1649331140965"/>
+    <typeInfo handle="=MobileAppJUnit/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mobileapp.service{IMobileService.java[IMobileService" modifiers="513" timestamp="1649350928304"/>
+    <typeInfo handle="=MobileAppJUnit/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mobileapp.service{MobileServiceImpl.java[MobileServiceImpl" modifiers="1" timestamp="1649391628322"/>
+    <typeInfo handle="=JUnitDemos/C:\/Program Files\/Java\/jdk-11.0.14\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1646127580444"/>
+    <typeInfo handle="=MockitoDemo/C:\/Users\/AkashKanaparthi\/.m2\/repository\/org\/junit\/jupiter\/junit-jupiter-api\/5.7.0\/junit-jupiter-api-5.7.0.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.junit.jupiter=/=/maven.artifactId=/junit-jupiter-api=/=/maven.version=/5.7.0=/=/maven.scope=/test=/&lt;org.junit.jupiter.api(MethodOrderer$OrderAnnotation.class[OrderAnnotation" modifiers="9" timestamp="1649350549616"/>
+    <typeInfo handle="=MockitoDemo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookapp.service{OrderDetails.java[OrderDetails" modifiers="1" timestamp="1649416922759"/>
+</typeInfoHistroy>
